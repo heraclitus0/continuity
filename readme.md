@@ -1,4 +1,4 @@
-# Cognize
+# Continuity
 
 **Epistemic Rupture Detection & Control via Recursion Control Calculus (RCC)**
 
@@ -12,7 +12,7 @@ A standalone Python package for epistemic rupture monitoring and drift control i
 
 ## 🧠 What is Cognize?
 
-Cognize is a modular epistemic rupture detection system built on **Recursion Control Calculus (RCC)**. It models cognitive drift, memory misalignment, rupture thresholds, and post-reset hallucination mutations.
+Continuity is a modular epistemic rupture detection system built on **Recursion Control Calculus (RCC)**. It models cognitive drift, memory misalignment, rupture thresholds, and post-reset hallucination mutations.
 
 Use it to:
 
